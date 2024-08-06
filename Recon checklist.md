@@ -123,6 +123,8 @@
 
 - [ ] `Tomnomnom’s` tool` Waybackurls` to automate the process.
 
+- [ ] Use `hunter.io` , `phonebook.cz` , `clearbit` for email recon and verify them with `verifyemailaddress.io` (email hippo) or `email-checker.net`.
+
 #### Tech Stack Fingerprinting
 
 - [ ] Find software versions and tech stack running on the system for to find `CVE` or exposed `vulns`.
@@ -155,5 +157,8 @@
 - [ ] fuzz the post data of the parameter using `wfuzz` #example7 
 
 
+
+#### Credential stuffing
+- [ ] use breached password and usernames lists and use the github tool `breach-parse` to find credentials relating to specific domains.
 #### MISC
 - [ ] Use `Spiderfoot` to automate entire recon phase.
